@@ -5,7 +5,7 @@ def initialize(name)
   @name = name 
 end 
 
-artist = Artist.new(name)
+
 
   
 
