@@ -6,7 +6,8 @@ def initialize(name)
 end 
 
 
-artist = Artist.new(name)
+artist = Artist.new
+artist.name = name
   
 
 end
