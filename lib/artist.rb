@@ -6,5 +6,5 @@ def initialize(name)
 end 
 
 artist = Artist.new 
-song = song.new
+song = Song.new
 end
