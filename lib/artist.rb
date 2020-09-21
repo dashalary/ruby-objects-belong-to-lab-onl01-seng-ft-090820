@@ -5,7 +5,5 @@ def initialize(name)
   @name = name 
 end 
 
-def self.name 
-  artist = Artist.name 
-end
+
 end
