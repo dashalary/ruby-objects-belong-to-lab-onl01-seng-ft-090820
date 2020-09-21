@@ -3,10 +3,10 @@ attr_accessor :name
 
 def initialize(name)
   @name = name 
+  artist = self.new
 end 
 
-artist = self.new 
-artist.name = name
+
   
 
 end
